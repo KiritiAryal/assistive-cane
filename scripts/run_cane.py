@@ -116,7 +116,7 @@ if __name__ == '__main__':
     left_vibrator = None
 
     # Remove the following line when done with above
-    return None
+    exit()
 
     ################################
     try:
