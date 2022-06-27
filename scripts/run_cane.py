@@ -115,6 +115,9 @@ if __name__ == '__main__':
     right_vibrator = None
     left_vibrator = None
 
+    # Remove the following line when done with above
+    return None
+
     ################################
     try:
         # Initialize ultrasonic sensor
