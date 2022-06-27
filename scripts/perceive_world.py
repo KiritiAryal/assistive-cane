@@ -132,11 +132,13 @@ def image_callback(rgb_msg, camera_info):
         arucoParams = None
         # Perform ArUco marker detection
         (corners, ids, rejected) = None, None, None
-
-        # Remove the following line when done with above
-        return None
         
         ################################
+
+        if corners == None:
+            cv2.imshow("Image", cv2_img)
+            cv2.waitKey(100)
+            return None
 
         box_poses = []
 
