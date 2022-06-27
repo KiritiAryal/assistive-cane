@@ -1,0 +1,3 @@
+float64 vibration_forward
+float64 vibration_left
+float64 vibration_right
