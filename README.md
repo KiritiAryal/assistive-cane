@@ -8,7 +8,7 @@ Below is the link for a short youtube video presentation of the whole program fr
 
 
 
-For future me, to understand how we went through to accomplish our goal:
+For future me, to understand how we went by to accomplish our goal:
 
 ROS Nodes and Communication:
 
